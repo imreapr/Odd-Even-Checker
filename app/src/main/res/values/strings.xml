@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">smartButtonX</string>
+    <string name="button">Button</string>
+    <string name="enter_a_here">Enter a # here.</string>
+    <string name="textview">TextView</string>
+    <string name="enter_a_number_below" />
+</resources>
